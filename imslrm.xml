@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+
+<lom
+  xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+
+  <general>
+    <title>
+      <langstring>Introducción a la Teoría Celular</langstring>
+    </title>
+    <catalogentry>
+      <catalog>eXe Authored Course ID</catalog>
+      <entry>
+        <langstring>4a7d755e-34a5-410a-a7d4-601881136623</langstring>
+      </entry>
+    </catalogentry>
+    <language>es</language>
+    <description>
+      <langstring>Objeto de Aprendizaje que aborda conceptos básicos de la Teoría Celular, su desarrollo histórico y el papel fundamental de la célula en la complejidad de los sistemas biológicos.</langstring>
+    </description>
+    <aggregationlevel>
+      <vocabulary>
+        <source>
+          <langstring xml:lang="x-none">LOMv1.0</langstring>
+        </source>
+        <value>
+          <langstring xml:lang="x-none">3</langstring>
+        </value>
+      </vocabulary>
+    </aggregationlevel>
+  </general>
+
+  <lifecycle>
+    <contribute>
+      <role>
+        <source>
+	  <langstring xml:lang="x-none">LOMv1.0</langstring>
+	</source>
+	<value>
+	  <langstring xml:lang="x-none">Author</langstring>
+	</value>
+      </role>
+      <centity>
+        <vcard>BEGIN:vCard FN:Gustavo Javier Acevedo Hernández END:vCard</vcard>
+      </centity>
+      <date>
+        <datetime>2020-07-15</datetime>
+      </date>
+    </contribute>
+    <contribute>
+      <role>
+        <source>
+	  <langstring xml:lang="x-none">LOMv1.0</langstring>
+	</source>
+	<value>
+	  <langstring xml:lang="x-none">Publisher</langstring>
+	</value>
+      </role>
+      <centity>
+        <vcard>BEGIN:vCard FN:Gustavo Javier Acevedo Hernández END:vCard</vcard>
+      </centity>
+      <date>
+        <datetime>2020-07-15</datetime>
+      </date>
+    </contribute>
+    <contribute>
+      <role>
+        <source>
+	  <langstring xml:lang="x-none">LOMv1.0</langstring>
+	</source>
+	<value>
+	  <langstring xml:lang="x-none">Unknown</langstring>
+	</value>
+      </role>
+      <centity>
+        <vcard>BEGIN:vCard FN: END:vCard</vcard>
+      </centity>
+      <date>
+        <datetime>2020-07-15</datetime>
+      </date>
+    </contribute>
+  </lifecycle>
+
+  <metadata>
+    <metadatascheme>ADL SCORM</metadatascheme>
+  </metadata>
+
+  <technical>
+    <format></format>
+  </technical>
+
+  <relation>
+    <resource>
+      <description>
+        <langstring></langstring>
+      </description>
+    </resource>
+  </relation>
+
+  <rights>
+    <copyrightandotherrestrictions>
+      <source>
+        <langstring xml:lang="x-none">LOMv1.0</langstring>
+      </source>
+      <value>
+        <langstring xml:lang="x-none">no</langstring>
+      </value>
+    </copyrightandotherrestrictions>
+    <description>
+      <langstring></langstring>
+    </description>
+  </rights>
+</lom>
